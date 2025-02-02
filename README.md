@@ -1,6 +1,6 @@
 # Data analysis & visualisation in R for biologists  
 
-## By [Irina Chelysheva](https://github.com/Chelysheva)([Oxford profile](https://www.wadham.ox.ac.uk/people/irina-chelysheva)) and [Srinivasa Rao Rao](https://github.com/sraorao)([Oxford profile](https://www.nds.ox.ac.uk/team/srinivasa-rao))
+## By [Irina Chelysheva](https://github.com/Chelysheva) and [Srinivasa Rao Rao](https://github.com/sraorao)([Oxford profile](https://www.nds.ox.ac.uk/team/srinivasa-rao))
 
 This interactive online MSD Skills training course is aimed at MSD postgraduate research students and staff with some programming experience in R who want to expand their skills in order to create reproducible analysis workflows and publication quality figures from biological data. 
  
